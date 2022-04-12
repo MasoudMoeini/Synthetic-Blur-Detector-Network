@@ -8,8 +8,8 @@ Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (dis
 **- [image_blur_detection_with_keras.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/image_blur_detection_with_keras.ipynb)** file to see Identifier model which is responsible to detect the blurry areas/regions of input blurry images.
 <br/>
 <br/>
-**Click on:**<br/> 
-**- [synthetic_image_blur_detector_show.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/resnet_blur_classification.ipynb)
+**Click on:**   <br/> 
+**- [synthetic_image_blur_detector_show.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/resnet_blur_classification.ipynb)**
 
 <br/>
 <br/>
