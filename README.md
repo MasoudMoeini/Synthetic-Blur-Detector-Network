@@ -10,5 +10,6 @@ Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (dis
 <br/>
 **Click on:**<br/> 
 **- [synthetic_image_blur_detector_show.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/resnet_blur_classification.ipynb)
+
 <br/>
 <br/>
