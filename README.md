@@ -4,10 +4,10 @@ Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (dis
 **- [resnet_blur_classification.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/Street_View_resnet_blur_classification.ipynb)** file to see resnet-50 classifier model which is responsible to classify input images into two binary classes based on whether they are blurry or they are real-sharp images. The classifier network implementation inspired from [here](https://machinelearningknowledge.ai/keras-implementation-of-resnet-50-architecture-from-scratch/).
 <br/>
 **Click on:**<br/>
-**- [image_blur_detection_with_keras.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/image_blur_detection_with_keras.ipynb)** file to see Identifier model which is responsible to detect the blurry areas/regions of input blurry images.
+**- [image_blur_detection_with_keras.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/image_blur_detection_with_keras.ipynb)** file to see Identifier model which is responsible to detect the blurry areas/regions of input blurry images.Figure 2, shows the Identifier network architecture. 
 <br/>
 **Click on:**   <br/> 
-**- [synthetic_image_blur_detector_show.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/synthetic_image_blur_detector_show.ipynb)**  file to see the final test and evaluation results of SBDN. The initial results for Street-View images dataset are [here](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/Steet_View_images_synthetic_image_blur_detector_show.ipynb). Figure 2 shows the Identifier network architecture. 
+**- [synthetic_image_blur_detector_show.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/synthetic_image_blur_detector_show.ipynb)**  file to see the final test and evaluation results of SBDN. The initial results for Street-View images dataset are [here](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/Steet_View_images_synthetic_image_blur_detector_show.ipynb). 
 <br/>
 ![Screenshot 2022-04-12 at 08 15 07](https://user-images.githubusercontent.com/43514418/162893058-42548adc-9116-41ad-8f5d-ed5d5c717982.png)
 <br/>
