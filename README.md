@@ -21,3 +21,4 @@ Figure 2: Identifier network architecture
 **Datasets:** <br/> 
 - [Blur Detection Dataset (Shi et al., 2014)](http://www.cse.cuhk.edu.hk/~leojia/projects/dblurdetect/dataset.html)
 - [Blur detection with feature Engineering (Blur Dataset- Kaggle)](https://www.kaggle.com/code/harininarasimhan/blur-detection-with-feature-engineering/data)
+- Street-View images dataset
