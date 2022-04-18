@@ -11,7 +11,7 @@ Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (dis
 <br/>
 ![Screenshot 2022-04-12 at 08 15 07](https://user-images.githubusercontent.com/43514418/162893058-42548adc-9116-41ad-8f5d-ed5d5c717982.png)
 <br/>
-Figure 1: Synthetic Blur Detector Network (SBDN) architecture. a) Input images. b) Classifier network result: real sharp image. c) Identifier network result for blurry images and discolored burred regions with red color.
+Figure 1: Synthetic Blur Detector Network (SBDN) architecture. a) Input images  b) Classifier network result: Sharp image (no blur)  c) Identifier network result for blurry images and discolored burred regions with red color.
 <br/>
 ![Screenshot 2022-03-27 at 22 19 02](https://user-images.githubusercontent.com/43514418/162891691-b04cf645-376b-442e-93ec-66a0ebd6d12f.png)
 <br/>
