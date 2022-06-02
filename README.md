@@ -1,5 +1,8 @@
 # Synthetic Blur Detector Network
-Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (discriminative) network and Identifier network (Fig. 1). The jupyter notebook files below show the development of Classifier network and Identifier network, as well as the final results for SBDN, using the tensorflow-keras library in python.
+Synthetic blur detector network (SBDN) includes two subnetworks: Classifier (discriminative) network and Identifier network (Fig. 1). The jupyter notebook files below show preparation of Street view blur dataset and the development of Classifier network and Identifier network, as well as the final results for SBDN, using the tensorflow-keras library in python.
+<br/>
+**Click on:**<br/>
+**- [Here] (https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/GaussianBlur_dataset.ipynb)** to see how we can use Gaussian Blur filter to convert 8200 Images from UCF- Google Street View dataset images into blurred images in order to train and evaluate Classifier network 
 <br/>
 **Click on:**<br/>
 **- [resnet_blur_classification.ipynb](https://github.com/MasoudMoeini/Synthetic-Blur-Detector-Network/blob/main/Street_View_resnet_blur_classification.ipynb)** file to see resnet-50 classifier model which is responsible to classify input images into two binary classes based on whether they are blurry or they are real-sharp images. The classifier network implementation inspired from [here](https://machinelearningknowledge.ai/keras-implementation-of-resnet-50-architecture-from-scratch/).
